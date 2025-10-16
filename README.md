@@ -1,5 +1,5 @@
 # Fowl Play: I ditched Java's Sort for DuckDB's because it's quacker
-This is the code source I used to compare Java's sort vs DuckDB's sort. Refer to my article for the results.
+This is the code source I used to compare Java's sort vs DuckDB's sort. Refer to [my article](https://paulbares.medium.com/fowl-play-i-ditched-javas-sort-for-duckdb-s-because-it-s-quacker-c398078954e6) for the results.
 
 ## Prerequisites
 In order to build and run the benchmarks, you will need:
